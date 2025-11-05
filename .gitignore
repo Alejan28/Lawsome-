@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+docx-template
+etc
+Lib
+Scripts
+share
+
+token
+pyvenv.cfg
+
+process-files.py
+process-files1.py
+rename-files.py
