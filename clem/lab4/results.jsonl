@@ -1,0 +1,478 @@
+[
+  {
+    "meta": {
+      "tip_act": "DECLARAȚIE DE CĂLĂTORIE",
+      "scop": "Să acorde mandatarului permisiunea de a călători în numele mandantului",
+      "mandant": {
+        "nume": "John Smith",
+        "cnp": "1234567890",
+        "adresa": "Strada principală 123, Anytown, SUA"
+      },
+      "mandatar": {
+        "nume": "Jane Doe",
+        "cnp": "9876543210",
+        "adresa": "Strada principală 456, Anytown, SUA"
+      },
+      "descriere": "Călătorie la Paris, Franța pentru afaceri"
+    },
+    "text": "DECLARAȚIE DE CĂLĂTORIE\nPĂRȚILE:\n1. MANDANTUL, cetățean american, cu domiciliul în Anytown, SUA, str. Principală 123, identificat cu un act de identitate valabil emis de guvernul SUA, C.N.P. 1234567890;\n2. MANDATARUL, cetățean american, cu domiciliul în Anytown, SUA, str. Principală 456, identificat cu un act de identitate valabil emis de guvernul SUA, C.N.P. 9876543210;\nÎn calitate de părți la această Declarație de Călătorie, avem următoarea înțelegere:\nOBIECTUL CONTRACTULUI:\nSubsemnații, MANDANTUL și MANDATARUL, declarăm că acordăm MANDATARULUI permisiunea de a călători în numele MANDANTULUI în următoarele condiții:\n1. MANDATARUL este autorizat să călătorească la Paris, Franța în numele MANDANTULUI.\n2. MANDATARUL este autorizat să efectueze toate activitățile necesare în legătură cu călătoria, inclusiv, dar fără a se limita la rezervarea călătoriilor, a cazării și a activităților.\n3. MANDATARUL este autorizat să folosească documentele de călătorie emise de MANDANTUL, inclusiv pașaportul și itinerarul.\n4. MANDATARUL este autorizat să acționeze în interesul MANDANTULUI și să respecte toate legile și reglementările aplicabile.\n5. MANDATARUL este responsabil pentru toate cheltuielile legate de călătorie, inclusiv, dar fără a se limita la, transportul aerian, cazarea și activitățile.",
+    "evaluare": {
+      "structura": 8,
+      "limbaj": 9,
+      "respectare_scop": 8,
+      "observatii": "Structură: titlu corect, corp logic, detalii complete. Limbaj: clar, formal, fără prescurtări sau colocvialisme. Scop: acoperit, dar lipsesc detalii despre durata călătoriei și autoritățile competente pentru validare."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "Procură Specială pentru Vehicul",
+      "scop": "Acordarea unui procură specială pentru vânzarea unei mașini",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890",
+        "adresa": "Strada Nicolae Băncii, nr. 15, București"
+      },
+      "mandatar": {
+        "nume": "Maria Gheorghe",
+        "cnp": "9876543210",
+        "adresa": "Bulevardul Libertății, nr. 10, București"
+      },
+      "descriere": "Toyota Corolla, 2015, CNP 123456789012345"
+    },
+    "text": "PROCURĂ SPECIALĂ PENTRU VEHICUL\nPĂRȚILE:\n1. IOAN POPESCU, cetățean român, cu domiciliul la Bulevardul Libertății, nr. 10, București, identificat cu C.I. seria AB, nr. 1234567890, eliberat de SRPCIV BUCUREȘTI, în calitate de mandant,\n2. MARIA GHEORGHE, cetățean român, cu domiciliul la Strada Nicolae Băncii, nr. 15, București, identificat cu C.I. seria AB, nr. 9876543210, eliberat de SRPCIV BUCUREȘTI, în calitate de mandatar,\nîn calitate de părți la această Procură Specială pentru Vehicul, în următoarele condiții:\n\nOBIECTUL PROCURĂI:\nMaria Gheorghe acordă o procură specială pentru vânzarea autovehiculului Toyota Corolla, 2015, deținut în baza cărții de identitate seria AB și a certificatului de înmatriculare eliberat de SRPCIV BUCUREȘTI, cu C.N.P. 1234567890, aferent mandantului Ioan Popescu. Maria Gheorghe acordă această procură pentru a acționa în numele mandantului Ioan Popescu în ceea ce privește vânzarea autovehiculului Toyota Corolla, 2015, cu C.N.P. 1234567890, în baza descrierii detaliate de mai sus. Această procură specială pentru vânzarea autovehiculului Toyota Corolla, 2015, cu C.N.P. 1234567890, acordată de Maria Gheorghe pentru a acționa în numele mandantului Ioan Popescu, se încheie la data de 19/05/2022.",
+    "evaluare": {
+      "structura": 7,
+      "limbaj": 8,
+      "respectare_scop": 7,
+      "observatii": "Structură: titlu corect, corp logic, dar există redundanțe. Limbaj: juridic, formal, fără prescurtări. Scop: parțial acoperit, dar lipsesc detalii despre actele necesare vânzării (ex.: semnarea contractului de vânzare-cumpărare, primirea prețului)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "Procură specială pentru transferul dreptului de proprietate",
+      "scop": "Acordarea unui mandatar pentru a transfera dreptul de proprietate asupra unui imobil în numele mandantului",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890987",
+        "adresa": "Strada Mihail Sadoveanu, 12, București"
+      },
+      "mandatar": {
+        "nume": "Mihai Ionescu",
+        "cnp": "9876543210987",
+        "adresa": "Strada Al. I. Cuza, 21, București"
+      },
+      "descriere": "Transferul dreptului de proprietate asupra unui imobil situat la Adresa Strada Al. I. Cuza, 21, București, cu numărul catastral 123456789"
+    },
+    "text": "PROCURĂ SPECIALĂ PENTRU TRANSFERUL DREPTULUI DE PROPRIETATE\nPĂRȚILE:\n1. MANDANTUL, Ioan Popescu, cetățean român, cu adresa la Strada Mihail Sadoveanu, 12, București, identificat cu C.I. seria AB, nr. 1234567890987, eliberat de SRPCIV BUCUREȘTI.\n2. MANDATARUL, Mihai Ionescu, cetățean român, cu adresa la Strada Al. I. Cuza, 21, București, identificat cu C.I. seria AB, nr. 9876543210987, eliberat de SRPCIV BUCUREȘTI.\nîn calitate de procură specială pentru transferul dreptului de proprietate, prezentul act este încheiat în următoarele condiții:\n\nOBIECTUL CONTRACTULUI:\nSubsemnații mandant și mandatar, declară că mandatarul este autorizat să transfere dreptul de proprietate asupra imobilului situat la adresa Strada Al. I. Cuza, 21, București, cu numărul catastral 123456789, în numele mandantului. Detaliile imobilului sunt următoarele:\n- Tipul actului: Procură specială pentru transferul dreptului de proprietate\n- Scop: Acordarea unui mandatar pentru a transfera dreptul de proprietate asupra unui imobil în numele mandantului\n- Mandant: Ioan Popescu (CNP 1234567890987)\n- Mandatar: Mihai Ionescu (CNP 9876543210987)\n- Detalii specifice: imobilul situat la Strada Al. I. Cuza, 21, București, cu numărul catastral 123456789",
+    "evaluare": {
+      "structura": 8,
+      "limbaj": 9,
+      "respectare_scop": 8,
+      "observatii": "Structură: titlu corect, corp logic, detalii complete. Limbaj: juridic, formal, fără prescurtări. Scop: acoperit, dar lipsesc detalii despre actele necesare transferului (ex.: semnarea actului de transfer, plata taxelor)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ SPECIALĂ IMOBILIARĂ",
+      "scop": "Acordarea unei procură speciale pentru vânzarea unui imobil",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890",
+        "adresa": "Strada Principală 12, București"
+      },
+      "mandatar": {
+        "nume": "Maria Petrescu",
+        "cnp": "9876543210",
+        "adresa": "Strada Libertății 45, București"
+      },
+      "descriere": "Vânzarea casei de la 123 Strada Principală, București"
+    },
+    "text": "PROCURĂ SPECIALĂ IMOBILIARĂ\n\nSubsemnata, Ioan Popescu, cetățean român, născut la 12 martie 1980, de naționalitate română, cu C.N.P. 1234567890, reședință la Strada Principală 12, București, declar pe propria răspundere că sunt proprietar al casei situate la 123 Strada Principală, București, România, și acord o procură specială pentru vânzarea imobilului menționat mai sus, sub rezerva termenilor următori:\n\n1. Mandatarul, Maria Petrescu, cu C.N.P. 9876543210, de naționalitate română, cu reședință la Strada Libertății 45, București, este autorizată să acționeze în numele mandantului în vederea vânzării imobilului menționat mai sus.\n\n2. Mandatarul este autorizat să:\n\n  a. Semneze acte și documente necesare pentru vânzarea imobilului menționat mai sus;\n\n  b. Primească plățile pentru vânzarea imobilului menționat mai sus;\n\n  c. Transmiță actele de proprietate și documentele necesare pentru vânzarea imobilului menționat mai sus către mandantul sau reprezentantul mandantului.\n\n3. Prezentul mandat este gratuit, netransmisibil și valabil pe o perioadă de 3 (trei) ani de la data autentificării sau până la revocarea sa expresă notificată mandatarului.\n\n4. Prezentul mandat va fi comunicat spre înscriere la S.C. Infonot Systems S.R.L.\n\nTehnoredactat și autentificat la Biroul Individual Notarial „Professio” din București, Sector 1, într-un exemplar original, care rămâne în arhiva biroului notarial și 2 (două) duplicate, din care unul va rămâne în arhiva biroului notarial și 1 (un) exemplar a fost eliberat mandatarului.\n\nMandatară, Maria Petrescu (semnătură)",
+    "evaluare": {
+      "structura": 9,
+      "limbaj": 9,
+      "respectare_scop": 9,
+      "observatii": "Structură: titlu corect, corp logic, final prezent, detalii complete. Limbaj: juridic, formal, fără prescurtări. Scop: acoperit, dar ar putea fi clarificate detalii despre actele specifice vânzării (ex.: contractul de vânzare-cumpărare)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "SCRIERE SPECIALĂ PENTRU VEHICULE",
+      "scop": "Convenire pentru vânzarea unui automobil",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890987",
+        "adresa": "Strada Primarului 12, București"
+      },
+      "mandatar": {
+        "nume": "Maria Gheorghe",
+        "cnp": "9876543210987",
+        "adresa": "Bulevardul Unirii 1, București"
+      },
+      "descriere": "Mașină Toyota Corolla, anul 2015, 123456 serii de șasiu"
+    },
+    "text": "SCRIERE SPECIALĂ PENTRU VEHICULE\n\nSubsemnata, Ioan Popescu, cetățean român, născută la 15 august 1980, reședință la Strada Primarului 12, București, deținător al Cărții de Identitate seria A nr. 1234567890987, emisă de Poliția Română, declar pe propria răspundere că sunt proprietarul Mașinii Toyota Corolla, anul 2015, serii de șasiu 123456, și declar că am încheiat o convenire cu Maria Gheorghe, cetățeană română, născută la 15 august 1980, reședință la Bulevardul Unirii 1, București, deținătoare a Cărții de Identitate seria A nr. 9876543210987, pentru vânzarea Mașinii Toyota Corolla, anul 2015, serii de șasiu 123456. Prezentul mandat este gratuit, netransmisibil și valabil pe o perioadă de 3 (trei) ani de la data autentificării sau până la revocarea sa expresă notificată mandatarului. Prezenta procura va fi comunicată spre înscriere la S.C. Infonot Systems S.R.L. Tehnoredactat și autentificat la Biroul Individual Notarial „Professio” din București, Sector 1, într-un exemplar original, care rămâne în arhiva biroului notarial și 2 (două) duplicate, din care unul va rămâne în arhiva biroului notarial și 1 (un) exemplar a fost eliberat părții. Mandatară, (semnătură)",
+    "evaluare": {
+      "structura": 8,
+      "limbaj": 8,
+      "respectare_scop": 8,
+      "observatii": "Structură: titlu corect, corp logic, detalii complete. Limbaj: juridic, formal, fără prescurtări. Scop: acoperit, dar ar putea fi clarificate detalii despre actele specifice vânzării (ex.: contractul de vânzare-cumpărare)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ SPECIALĂ",
+      "scop": "obținere duplicat certificat de naștere/căsătorie",
+      "mandant": {
+        "nume": "Ilarion Ioniță",
+        "cnp": "1090110194758",
+        "adresa": "Strada Nistor Nr. 772 Bl. 71  Sc. 82 Ap. 663, Pechea, 320199"
+      },
+      "mandatar": {
+        "nume": "Răducu Pop",
+        "cnp": "1830326392113",
+        "adresa": "Intrarea Preda Nr. 72, Buftea, 877521"
+      },
+      "data_semnarii": "19.11.2025",
+      "act_cerut": "Certificat de Naștere",
+      "autoritate": "Serviciul de Stare Civilă / Poliția Română"
+    },
+    "text": "PROCURĂ SPECIALĂ\nPĂRȚILE:\n1. ILARION IONIȚĂ, cetățean român, cu domiciliul la Strada Nistor Nr. 772 Bl. 71 Sc. 82 Ap. 663, Pechea, 320199, identificat cu C.I. seria AB, nr. 1090110194758, eliberat de Serviciul de Stare Civilă/Poliția Română;\n2. RĂDUCU POP, cetățean român, cu domiciliul la Intrarea Preda Nr. 72, Buftea, 877521, identificat cu C.I. seria AB, nr. 1830326392113, eliberat de Serviciul de Stare Civilă/Poliția Română;\n3. Serviciul de Stare Civilă/Poliția Română, reprezentat de [reprezentantul autorității], intervenit în prezentul act special în următoarele condiții:\n\nOBIECTUL ACTULUI SPECIAL:\nSubsemnații, ILARION IONIȚĂ și RĂDUCU POP, declarăm că mandăm [reprezentantul autorității] să obțină o duplicat a certificatelor noastre de naștere, în următoarele condiții:\n\n1. Certificatul de naștere al ILARION IONIȚĂ;\n2. Certificatul de naștere al RĂDUCU POP;\n3. Certificatul de căsătorie al ILARION IONIȚĂ;\n4. Certificatul de căsătorie al RĂDUCU POP;\n5. Certificatul de naștere al copilului (dacă este cazul);\n6. Certificatul de divorț al ILARION IONIȚĂ (dacă este cazul);\n7. Certificatul de divorț al RĂDUCU POP (dacă este cazul);\n8. Certificatul de deces al soțului (dacă este cazul);\n9. Certificatul de deces al copilului (dacă este cazul);\n10. Certificatul de adopție al ILARION IONIȚĂ (dacă este cazul);\n11. Certificatul de adopție al RĂDUCU POP (dacă este cazul);\n12. Certificatul de naționalitate al ILARION IONIȚĂ (dacă este cazul);\n13. Certificatul de naționalitate al RĂDUCU POP (dacă este cazul);\n14. Certificatul de naturalizare al ILARION IONIȚĂ (dacă este cazul);\n15. Certificatul de naturalizare al RĂDUCU POP (dacă este cazul);\n16. Certificatul de schimbare a numelui al ILARION IONIȚĂ (dacă este cazul);\n17. Certificatul de schimbare a numelui al RĂDUCU POP (dacă este cazul);\n18. Certificatul de schimbare a numelui al copilului (dacă este cazul);\n19. Certificatul de schimbare a numelui al soțului (dacă este cazul);\n20. Certificatul de schimbare a numelui al părintelui (dacă este cazul);\n21. Certificatul de schimbare a numelui al tutorelui (dacă este cazul);\n22. Certificatul de schimbare a numelui al tutorelui (dacă este cazul);\n23. Certificatul de schimbare a numelui al tutorelui (dacă este cazul);\n24. Certificatul de schimbare a numelui al tutorelui (dacă este cazul);\n25. Certificatul de schimbare a numelui al tutorelui (dacă este cazul); și\n26. Certificatul de schimbare a numelui al tutorelui (dacă este cazul). Dacă nu este posibilă obținerea duplicatului unuia dintre certificatul(e) specificat(e) mai sus, [reprezentantul autorității] poate obține în schimb o duplicat a unuia dintre următoarele documente: certificatul(e)",
+    "evaluare": {
+      "structura": 5,
+      "limbaj": 6,
+      "respectare_scop": 4,
+      "observatii": "Structură: titlu corect, dar textul este redundant și incomplet (lipsă final/semnătură). Limbaj: formal, dar cu repetare excesivă. Scop: parțial acoperit, dar textul conține multe elemente nepertinente și lipsesc detalii practice (ex.: autoritatea competentă, termene)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ DE CUMPĂRARE",
+      "scop": "achiziție imobil și semnare contract credit ipotecar",
+      "mandant": {
+        "nume": "Catrinel Tudor",
+        "cnp": "3480424119415",
+        "adresa": "Intrarea Popa Nr. 588, Motru, 271330"
+      },
+      "mandatar": {
+        "nume": "Olga Toma",
+        "cnp": "1731025082527",
+        "adresa": "Aleea Toma, Sannicolau Mare, 987910"
+      },
+      "data_semnarii": "19.11.2025",
+      "buget_maxim": "110000 EURO",
+      "zona_preferata": "București sau Ilfov",
+      "banca": "BCR"
+    },
+    "text": "PROCURĂ DE CUMPĂRARE\nÎn numele mandantei, Catrinel Tudor, cetățean român, cu domiciliul la Intrarea Popa Nr. 588, Motru, 271330, identificată cu CNP 3480424119415, în calitate de mandant, prezentul document de procură de cumpărare, sub semnarea sa voluntară și gratuită, a fost autorizat să acționeze în numele mandantei, Catrinel Tudor, pentru a încheia acorduri, să semneze și să execute contracte, să cumpere și să vândă bunuri imobile și să obțină împrumuturi pentru a achiziționa un imobil, în următoarele condiții:\n\n1. Detaliile mandatarului: Olga Toma, cetățean român, cu domiciliul la Aleea Toma, Sannicolau Mare, 987910, identificată cu CNP 1731025082527.\n\n2. Detaliile mandantei: Catrinel Tudor, cetățean român, cu domiciliul la Intrarea Popa Nr. 588, Motru, 271330, identificată cu CNP 3480424119415.\n\n3. Scopul acestei proceduri: achiziție imobil și semnare contract de credit ipotecar.\n\n4. Banca: BCR.\n\n5. Buget maxim: 110.000 EURO.\n\n6. Zona preferată: București sau Ilfov.\n\nPrezentul document de procură de cumpărare a fost semnat la data de 19.11.2025, în prezența a două persoane nelegate și cu cunoștință de cauză, care au semnat documentul de mai jos.",
+    "evaluare": {
+      "structura": 7,
+      "limbaj": 8,
+      "respectare_scop": 7,
+      "observatii": "Structură: titlu corect, corp logic, dar textul este incomplet (lipsă final/semnătură). Limbaj: juridic, formal, fără prescurtări. Scop: parțial acoperit, dar lipsesc detalii practice despre actele necesare achiziției (ex.: semnarea contractului de cumpărare, detalii despre creditul ipotecar)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ SUCCESORALĂ",
+      "scop": "reprezentare la dezbaterea succesiunii",
+      "mandant": {
+        "nume": "Florica Ioniță",
+        "cnp": "2590802135317",
+        "adresa": "Strada Cristea Nr. 85, Titu, 253227"
+      },
+      "mandatar": {
+        "nume": "Aurel Popa",
+        "cnp": "7540314223442",
+        "adresa": "Intrarea Grațiela Popa Nr. 54, Zarnesti, 408713"
+      },
+      "data_semnarii": "19.11.2025",
+      "defunct": {
+        "nume": "Natalia Dobre",
+        "data_deces": "28.10.2025"
+      },
+      "notar_competent": "oricare notar public din raza Municipiului București",
+      "optiune": "acceptarea pură și simplă a succesiunii"
+    },
+    "text": "CONTRACT DE PROCURĂ SUCCESORALĂ\nPĂRȚILE:\n1. FLORICA IONIȚĂ, cetățean român, cu reședința în Titu, Strada Cristea Nr. 85, identificată cu C.I. seria AB, nr. 2590802135317, eliberat de Oficiul de Identificare Titu, Titu, la data de 19.11.2025,\n2. AUREL POPA, cetățean român, cu reședința în Zărnești, Intrarea Grațiela Popa Nr. 54, identificat cu C.I. seria AB, nr. 7540314223442, eliberat de Oficiul de Identificare Zărnești, Zărnești, la data de 19.11.2025,\n3. NATALIA DOBRE, decedată, cu reședința în Titu, Strada Cristea Nr. 85, înregistrată la Registrul Populației din Titu, Titu, sub nr. 1234567890,\n4. ORICARE NOTAR PUBLIC DIN RAZA MUNICIPALITĂȚII BUCUREȘTI, a intervenit prezentul contract de procură succesorială în următoarele condiții:\n\nOBIECTUL CONTRACTULUI:\nSubsemnații, FLORICA IONIȚĂ și AUREL POPA, declarăm că autorizăm pe AUREL POPA să reprezinte și să acționeze în numele nostru în timpul dezbaterii succesiunii pentru reprezentarea succesiunii NATALIA DOBRE, decedată, cu reședința în Titu, Strada Cristea Nr. 85, înregistrată la Registrul Populației din Titu, Titu, sub nr. 1234567890, și autorizăm pe AUREL POPA să accepte pur și simplu succesiunea NATALIA DOBRE, decedată, cu reședința în Titu, Strada Cristea Nr. 85, înregistrată la Registrul Populației din Titu, Titu, sub nr. 1234567890, conform ultimului testament sau conform legii",
+    "evaluare": {
+      "structura": 7,
+      "limbaj": 8,
+      "respectare_scop": 7,
+      "observatii": "Structură: titlu corect, corp logic, dar textul este incomplet (lipsă final/semnătură). Limbaj: juridic, formal, fără prescurtări. Scop: parțial acoperit, dar lipsesc detalii practice despre actele necesare succesiunii (ex.: documentele necesare, termene)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ SUCCESORALĂ",
+      "scop": "reprezentare la dezbaterea succesiunii",
+      "mandant": {
+        "nume": "Laurian Nistor",
+        "cnp": "5550617361358",
+        "adresa": "Strada Alex Nemeș, Sancraiu de Mures, 557116"
+      },
+      "mandatar": {
+        "nume": "Norica Niță",
+        "cnp": "6450208423443",
+        "adresa": "Strada Leonard Dochioiu Nr. 562 Bl. 10  Sc. 74 Ap. 871, Cobadin, 843454"
+      },
+      "data_semnarii": "19.11.2025",
+      "defunct": {
+        "nume": "Amalia Suciu",
+        "data_deces": "05.09.2025"
+      },
+      "notar_competent": "oricare notar public din raza Municipiului București",
+      "optiune": "acceptarea pură și simplă a succesiunii"
+    },
+    "text": "PROCURĂ SUCCESORALĂ\nPĂRȚILE:\nLaurian Nistor, cetățean român, cu domiciliul la Strada Alex Nemeș, Sancraiu de Mureș, 557116, identificat cu C.I. seria AB, nr. 5550617361358, eliberat de Oficiul de Registrare a Populației din Mureș, la data de 19.11.2025, CNP 5550617361358, reprezintă pe defuncta Amalia Suciu, decedată la data de 05.09.2025, în calitate de procură pentru reprezentare la dezbaterea succesiunii.\nNorica Niță, cetățean român, cu domiciliul la Strada Leonard Dochioiu Nr. 562 Bl. 10  Sc. 74 Ap. 871, Cobadin, 843454, identificată cu C.I. seria AB, nr. 6450208423443, eliberat de Oficiul de Registrare a Populației din Iași, la data de 19.11.2025, CNP 6450208423443, reprezintă pe propria sa persoană, în calitate de mandatar.\nNOTAR COMPETENT: Oricare notar public din raza Municipiului București\nOBIECTUL CONTRACTULUI:\nSubsemnații, Laurian Nistor și Norica Niță, declară că mandatarul, Norica Niță, acceptă pur și simplu succesiunea defunctei Amalia Suciu.",
+    "evaluare": {
+      "structura": 7,
+      "limbaj": 8,
+      "respectare_scop": 7,
+      "observatii": "Structură: titlu corect, corp logic, dar textul este incomplet (lipsă final/semnătură). Limbaj: juridic, formal, fără prescurtări. Scop: parțial acoperit, dar lipsesc detalii practice despre actele necesare succesiunii (ex.: documentele necesare, termene)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "Procură specială pentru vânzarea imobilului",
+      "scop": "Oferirea unei procură speciale unui avocat pentru a autoriza vânzarea unui imobil",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890",
+        "adresa": "Strada Bucurestii, 123, București"
+      },
+      "mandatar": {
+        "nume": "Mihail Ionescu",
+        "cnp": "9876543210",
+        "adresa": "Strada Republicii, 10, București"
+      },
+      "descriere": "Imobil situat la strada Libertatii, 45, București, cu numărul cadastral 123456"
+    },
+    "text": "PROROGARE SPECIALĂ PENTRU VÂNZAREA IMOBILULUI\nPĂRȚILE:\n1. IOAN POPESCU, cetățean român, cu domiciliul în București, str. București, nr. 123, identificat cu C.I. seria AB, nr. 1234567890, eliberat de SRPCIV BUCUREȘTI, la data de 19.05.2021, C.N.P. 1234567890,\n2. MIHAIL IONESCU, cetățean român, cu domiciliul în București, str. Republicii, nr. 10, identificat cu C.I. seria AB, nr. 9876543210, eliberat de SRPCIV BUCUREȘTI, la data de 19.05.2021, C.N.P. 9876543210,\n3. AVOCATUL [Numele Avocatului], avocat încredincios, cu sediul în București, str. [Adresa Avocatului], identificat cu C.I. seria AB, nr. [Numărul de Identificare al Avocatului], eliberat de [Instalarea Avocatului], la data de [Data de Eliberare], C.N.P. [Numărul de Identificare Personală al Avocatului].\n\nOBIECTUL PROROGĂRII:\nAvocatul mandatar Mihail Ionescu este autorizat și autorizat de mandantul Ioan Popesccu să autorizeze vânzarea imobilului situat la strada Libertății, nr. 45, București, cu numărul cadastral 123456, în numele mandantului. Prorogarea specială acoperă toate actele și documentele necesare pentru vânzarea imobilului, inclusiv, dar fără a se limita la acte de proprietate, contracte de vânzare și acte de transfer. Prorogarea specială este valabilă până la data de [Data Expirării], sub rezerva drepturilor și obligațiilor mandantului și mandatarului. Mandatarul este autorizat să acționeze în numele mandantului și să îndeplinească toate actele necesare pentru vânzarea imobilului, cu excepția celor interzise de mandantul. Mandatarul este de asemenea autorizat să păstreze toate documentele și actele necesare pentru vânzarea imobilului până la plata integrală a onorariilor mandatarului. Mandantul este de acord să plătească mandatarului o onoare de [Procentul Onorării Mandatarului] % din valoarea vânzării imobilului. Mandatarul este de asemenea autorizat să păstreze o onoare de [Procentul Onorării Mandatarului] % din valoarea vânzării imobilului pentru serviciile prestate. Mandatarul este de asemenea autorizat să perceapă toate costurile legale și cheltuielile suportate în timpul vânzării imobilului. Mandatarul este de asemenea autorizat să perceapă o onoare de [Procentul Onorării Mandatarului] % din valoarea vânzării imobilului pentru serviciile prestate în cazul în care mandantul nu plătește integral onorarea mandatarului. Mandatarul este de asemenea autorizat să perceapă o onoare de [Procentul Onorării Mandatarului] % din valoarea vânzării imobilului pentru serviciile prestate în cazul în care mandantul nu plătește integral onorarea mandatarului în termen de [Numărul de Zile pentru Plata Onorării Mandatarului] de zile de la data vânzării imobilului. Mandatarul este de asemenea autorizat să perceapă o onoare de [Procentul Onorării Mandatarului] % din valoarea vânzării imobilului pentru serviciile prestate în cazul în care mandantul nu plăteș",
+    "evaluare": {
+      "structura": 6,
+      "limbaj": 7,
+      "respectare_scop": 6,
+      "observatii": "Structură: titlu incorect (PROROGARE SPECIALĂ în loc de PROCURĂ SPECIALĂ), text incomplet (lipsă final/semnătură), conține elemente redundante. Limbaj: juridic, dar cu formulări neclare. Scop: parțial acoperit, dar lipsesc detalii practice despre actele specifice vânzării (ex.: semnarea contractului de vânzare-cumpărare, primirea prețului)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ SPECIALĂ IMOBILIARĂ",
+      "scop": "Acordarea unei procuri speciale pentru vânzarea unui imobil",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890123",
+        "adresa": "Strada Republicii 22, București"
+      },
+      "mandatar": {
+        "nume": "Maria Ionescu",
+        "cnp": "9876543210987",
+        "adresa": "Bulevardul Carol I 5, București"
+      },
+      "descriere": "Vânzarea unui imobil situat la adresa Strada Nicolae Balcescu 10, București"
+    },
+    "text": "PROCURĂ SPECIALĂ IMOBILIARĂ\nSubsemnata, Ioan Popescu, cetățean român, născut la 10 octombrie 1985, domiciliat la Strada Republicii 22, București, posesoare a Cărții de Identitate seria A nr. 1234567890123, emisă de Poliția Română, declar pe propria răspundere că am autoritatea de a acorda o procură specială pentru vânzarea unui imobil și că am putere deplină și liberă de a acționa în numele mandantului.\n\nPrin prezenta, acord o procură specială Mariei Ionescu, cetățeană română, născută la [introduce data nașterii], domiciliată la Bulevardul Carol I 5, București, pentru vânzarea unui imobil situat la adresa Strada Nicolae Balcescu 10, București.\n\nAceastă procură specială este gratuită, netransmisibilă și valabilă pe o perioadă de 3 (trei) ani de la data autentificării sau până la revocarea sa expresă notificată mandatarului.\n\nPrezenta procură specială pentru vânzarea unui imobil va fi comunicată spre înscriere la S.C. Infonot Systems S.R.L.\n\nTehnoredactat și autentificat la Biroul Individual Notarial „Professio” din București, Sector 1, într-un exemplar original, care rămâne în arhiva biroului notarial și 2 (două) duplicate, din care unul va rămâne în arhiva biroului notarial și 1 (un) exemplar a fost eliberat părții.\n\nMandatară,\n(semnătură)",
+    "evaluare": {
+      "structura": 8,
+      "limbaj": 9,
+      "respectare_scop": 8,
+      "observatii": "Structură: titlu corect, corp logic, final prezent. Limbaj: juridic, formal, fără prescurtări. Scop: acoperit, dar ar putea fi clarificate detalii despre actele specifice vânzării (ex.: semnarea contractului de vânzare-cumpărare, primirea prețului)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "ACT SPECIAL DE PROCURĂ IMOBILIARĂ",
+      "scop": "Acordarea mandatarului să vândă un imobil în numele mandantului",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567891234",
+        "adresa": "Strada Republicii 15, București"
+      },
+      "mandatar": {
+        "nume": "Mihai Ionescu",
+        "cnp": "9876543210987",
+        "adresa": "Strada Alba Iulia 5, București"
+      },
+      "descriere": "Un imobil situat la 123 Main Street, București, cu numărul catastral 123456789"
+    },
+    "text": "ACT SPECIAL DE PROCURĂ IMOBILIARĂ\nPĂRȚILE:\nMandantul, Ioan Popescu, cetățean român, cu domiciliul la Strada Republicii 15, București, identificat cu C.I. seria AB, nr. 1234567891234, eliberat de Registrul Comerțului de către Biroul de Statistică din București, la data de 19.05.2021, C.N.P. 1234567891234,\nMandatarul, Mihai Ionescu, cetățean român, cu domiciliul la Strada Alba Iulia 5, București, identificat cu C.I. seria AB, nr. 9876543210987, eliberat de Registrul Comerțului de către Biroul de Statistică din București, la data de 19.05.2021, C.N.P. 9876543210987,\ndescriind un imobil situat la 123 Main Street, București, cu numărul catastral 123456789, înregistrat în Registrul Comerțului de către Tribunalul din București sub numărul J1234567891234, având un cod unic de înregistrare 1234567891234, în calitate de mandant, acordă mandatarul să vândă imobilul în numele mandantului, în următoarele condiții:\n\nOBIECTUL CONTRACTULUI:\nSubsemnații mandant și mandatar declară că mandatarul va vinde imobilul situat la 123 Main Street, București, cu numărul catastral 123456789, înregistrat în Registrul Comerțului de către Tribunalul din București sub numărul J1234567891234, având un cod unic de înregistrare 1234567891234, în numele mandantului, conform detaliilor specificate mai jos:\n\nDetalii specifice:\ntip_act: ACT SPECIAL DE PROCURĂ IMOBILIARĂ\nscop: Acordarea mandatarului să vândă un imobil în numele mandantului\nmandant: \n    nume: Ioan Popescu\n    cnp: 1234567891234\n    adresa: Strada Republicii 15, București\nmandatar: \n    nume: Mihai Ionescu\n    cnp: 9876543210987\n    adresa: Strada Alba Iulia 5, București\ndescriere: Un imobil situat la 123 Main Street, București, cu numărul catastral 123456789",
+    "evaluare": {
+      "structura": 7,
+      "limbaj": 8,
+      "respectare_scop": 7,
+      "observatii": "Structură: titlu corect, corp logic, dar există detalii redundante. Limbaj: juridic, formal, fără prescurtări. Scop: parțial acoperit, dar lipsesc detalii practice despre actele specifice vânzării (ex.: semnarea contractului de vânzare-cumpărare, primirea prețului)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "PROCURĂ GENERALĂ",
+      "scop": "administrare bunuri",
+      "mandant": {
+        "nume": "Fallback User",
+        "cnp": "1800101000000",
+        "adresa": "București"
+      },
+      "mandatar": {
+        "nume": "Fallback Agent",
+        "cnp": "1800101000000",
+        "adresa": "București"
+      }
+    },
+    "text": "PROCURĂ GENERALĂ\nSubsemnata, Fallback User, cetățean român, născută la data nașterii sale, domiciliată în București, posesoare a Cărții de Identitate seria A nr. 1800101000000, emisă de Poliția Română, C.N.P. 1800101000000, declar pe propria răspundere că sunt proprietara bunurilor de administrare, sub regimul de proprietate unică, și că nu am încheiat până în prezent nicio convenție, act de lichidare sau act de modificare a acestui regim de proprietate, mi s-au adus la cunoștință prevederile articolului 339 din Codul Civil și înțeleg să autorizez pe Fallback Agent, cetățean român, născută la data nașterii sale, domiciliată în București, posesoare a Cărții de Identitate seria A nr. 1800101000000, emisă de Poliția Română, C.N.P. 1800101000000, să îmi administreze bunurile în scopuri de administrare, sub regimul de proprietate unică.\nPrezentul mandat este gratuit, netransmisibil și valabil pe o perioadă de 3 (trei) ani de la data autentificării sau până la revocarea sa expresă notificată mandatarului.\nPrezenta procura va fi comunicată spre înscriere la S.C. Infonot Systems S.R.L.\nTehnoredactat și autentificat la Biroul Individual Notarial „Professio” din București, Sector 1, într-un exemplar original, care rămâne în arhiva biroului notarial și 2 (două) duplicate, din care unul va rămâne în arhiva biroului notarial și 1 (un) exemplar a fost eliberat mandatarului.\nMandatară,\n(semnătură)",
+    "evaluare": {
+      "structura": 7,
+      "limbaj": 8,
+      "respectare_scop": 7,
+      "observatii": "Structură: titlu corect, corp logic, dar textul este incomplet (lipsă final/semnătură). Limbaj: juridic, formal, fără prescurtări. Scop: parțial acoperit, dar lipsesc detalii practice despre actele necesare administrării bunurilor (ex.: tipul bunurilor, limitele administrării)."
+    }
+  },
+  {
+    "meta": {
+      "tip_act": "DECLARAȚIE SPECIALĂ PENTRU ÎMPĂRȚĂȘIE",
+      "scop": "Împărțirea proprietății de locuit între doi frați",
+      "mandant": {
+        "nume": "Ioan Popescu",
+        "cnp": "1234567890",
+        "adresa": "Strada Mântuitorului 23, București"
+      },
+      "mandatar": {
+        "nume": "Mihail Popescu",
+        "cnp": "9876543210",
+        "adresa": "Strada Libertății 12, București"
+      },
+      "descriere": "Proprietatea de locuit situată la Strada Mântuitorului 23, București, cu numărul cadastral 123456"
+    },
+    "text": "DECLARAȚIE SPECIALĂ PENTRU ÎMPĂRȚĂȘIE\nPĂRȚILE:\nMandantul, Ioan Popescu, cetățean român, cu domiciliul în București, strada Mântuitorului nr. 23, identificat cu C.I. seria AB, nr. 1234567890, eliberat de Registrul București, la data de 19.05.2021,\nMandatarul, Mihail Popescu, cetățean român, cu domiciliul în București, strada Libertății nr. 12, identificat cu C.I. seria AB, nr. 9876543210, eliberat de Registrul București, la data de 19.05.2021,\navând în vedere mandatul acordat Mandatarului de către Mandant pentru împărțirea proprietății de locuit situate la strada Mântuitorului nr. 23, București, cu numărul cadastral 123456;\navând în vedere că Mandatul și Mandatarul doresc să împărțe proprietatea de locuit situate la strada Mântuitorului nr. 23, București, cu numărul cadastral 123456 în mod egal;\navând în vedere că Mandatul și Mandatarul sunt de acord cu termenii următori:\n\nOBIECTUL CONTRACTULUI:\nMandantul și Mandatarul convin să împărțe în mod egal proprietatea de locuit situate la strada Mântuitorului nr. 23, București, cu numărul cadastral 123456. Mandatul și Mandatarul sunt de acord să plătească cheltuielile legate de împărțire, inclusiv orice taxe legale, în mod egal.\n\nCONSIDERENTE:\nMandantul și Mandatarul au luat în considerare termenii de mai sus și sunt de acord să fie legați de termenii prezentului document.\n\nACORD:\nMandantul și Mandatarul convin că prezentul document este un contract valabil și obligatoriu, care poate fi executat în instanță, și că orice încălcare a termenilor prezentului document va duce la aplicarea de către o instanță a legii.\n\nDATA:\nPrezentul document este executat la data de 19.05.2021, la București.\n\n[Semnăturile Mandantului și Mandatarului]",
+    "evaluare": {
+      "structura": 8,
+      "limbaj": 9,
+      "respectare_scop": 8,
+      "observatii": "Structură: titlu corect, corp logic, detalii complete. Limbaj: juridic, formal, fără prescurtări. Scop: acoperit, dar ar putea fi clarificate detalii despre actele specifice împărțirii (ex.: documentele necesare, termene)."
+    }
+  },
+{
+  "meta": {
+    "tip_act": "ACT SPECIAL DE PROCURĂ IMOBILIARĂ",
+    "scop": "Acordarea unei procuri speciale pentru vânzarea unui imobil",
+    "mandant": {
+      "nume": "Ioan Popescu",
+      "cnp": "1234567890",
+      "adresa": "Bulevardul Victoriei 45, București"
+    },
+    "mandatar": {
+      "nume": "Andrei Ionescu",
+      "cnp": "9876543210",
+      "adresa": "Strada Republicii 10, București"
+    },
+    "descriere": "Un imobil situat la Strada Libertății 17, București cu numărul de intrare în jurnal (NJI) 1234567890"
+  },
+  "text": "PROCURĂ JUDICIARĂ\n\nSubsemnatul, Ioan Popescu, cetățean român, cu domiciliul la Bulevardul Victoriei nr. 45, București, CNP 1234567890, împuternicește pe Andrei Ionescu, cetățean român, cu domiciliul la Strada Republicii nr. 10, București, CNP 9876543210, să se prezinte în fața instanțelor judecătorești, inclusiv în cauza de dosar nr. 1234567890 aflată pe rolul Curții de Apel din București, unde are calitatea de reclamant, în proces cu Primăria Municipiului București, înaintea consiliilor locale, municipale și județene, a primăriilor, a organelor administrative și financiare, pentru a susține interesele sale.",
+  "evaluare": {
+    "structura": 5,
+    "limbaj": 8,
+    "respectare_scop": 4,
+    "observatii": "Structură: titlu incorect (PROCURĂ JUDICIARĂ în loc de ACT SPECIAL DE PROCURĂ IMOBILIARĂ), text incomplet (lipsă final/semnătură), conține multe elemente nepertinente (proceduri judecătorești generale, reprezentare în instanță, apeluri, recursuri). Limbaj: juridic, formal, fără prescurtări sau colocvialisme. Scop: parțial acoperit, dar textul este dominat de proceduri judecătorești irelevante pentru vânzarea unui imobil; lipsesc detalii practice despre actele specifice vânzării (ex.: semnarea contractului de vânzare-cumpărare, primirea prețului, eliberarea imobilului)."
+  }
+},
+{
+  "meta": {
+    "tip_act": "PROCURĂ SPECIALĂ PENTRU VÂNZAREA UNUI IMOBIL",
+    "scop": "Procurarea vânzării unui imobil situat în Cluj-Napoca",
+    "mandant": {
+      "nume": "Ioan Popescu",
+      "cnp": "1234567890987",
+      "adresa": "Strada Republicii, nr. 15, Cluj-Napoca"
+    },
+    "mandatar": {
+      "nume": "Gheorghe Ionescu",
+      "cnp": "9876543210987",
+      "adresa": "Strada Vasile Alecsandri, nr. 20, Cluj-Napoca"
+    },
+    "descriere": "Imobil situat la Strada Eroilor, nr. 2, Cluj-Napoca, numărul cadastral 123456"
+  },
+  "text": "PROCURĂ SPECIALĂ PENTRU VÂNZAREA UNUI IMOBIL\nSubsemnatul, Ioan Popescu, cetățean român, cu domiciliul la Strada Republicii, nr. 15, Cluj-Napoca, CNP 1234567890987, împuternicește pe Gheorghe Ionescu, cetățean român, cu domiciliul la Strada Vasile Alecsandri, nr. 20, Cluj-Napoca, CNP 9876543210987, să se reprezinte în fața instanțelor judecătorești, în special în ceea ce privește vânzarea unui imobil situat în Cluj-Napoca. Detalii specifice: Imobil situat la Strada Eroilor, nr. 2, Cluj-Napoca, numărul cadastral 123456.",
+  "evaluare": {
+    "structura": 7,
+    "limbaj": 8,
+    "respectare_scop": 7,
+    "observatii": "Structură: titlu corect, corp logic, dar conține elemente nepertinente (proceduri judecătorești generale). Limbaj: juridic, formal, fără prescurtări sau colocvialisme. Scop: parțial acoperit, dar textul include acțiuni nepertinente (apeluri, recursuri, reprezentare în instanță) față de 'procurarea vânzării unui imobil situat în Cluj-Napoca'."
+  }
+},
+{
+  "meta": {
+    "tip_act": "Procură specială imobiliară",
+    "scop": "Procurarea unei agenții imobiliare pentru a vinde un apartament",
+    "mandant": {
+      "nume": "Ioan Popescu",
+      "cnp": "1234567890987",
+      "adresa": "Strada Mării, nr. 123, Sectorul 1, București"
+    },
+    "mandatar": {
+      "nume": "Elena Ionescu",
+      "cnp": "9876543210987",
+      "adresa": "Strada Libertății, nr. 456, Sectorul 3, București"
+    },
+    "descriere": "Apartament situat la etajul 3, clădirea 123, Strada Unirii, Sectorul 1, București. Serialul șasiului: 1234567890"
+  },
+  "text": "PROCURĂ SPECIALĂ IMOBILIARĂ\nSubsemnatul, Ioan Popescu, cetățean român, cu domiciliul la Strada Mării, nr. 123, Sectorul 1, București, cu CNP 1234567890987, împuternicește pe Elena Ionescu, cu domiciliul la Strada Libertății, nr. 456, Sectorul 3, București, cu CNP 9876543210987, să se prezinte în fața instanțelor judecătorești, în special pentru a vinde un apartament situat la etajul 3, clădirea 123, Strada Unirii, Sectorul 1, București. Serialul șasiului apartamentului este 1234567890.",
+  "evaluare": {
+    "structura": 6,
+    "limbaj": 7,
+    "respectare_scop": 5,
+    "observatii": "Structură: titlu corect, dar textul este incomplet (lipsă final/semnătură), frază întreruptă brusc. Limbaj: juridic, dar conține pasaje redundante și neclare. Scop: parțial acoperit, dar textul include multe elemente nepertinente (proceduri judecătorești, reprezentare în instanță) față de 'procurarea unei agenții imobiliare pentru a vinde un apartament'."
+  }
+},
+{
+  "meta": {
+    "tip_act": "Declarație specială de călătorie",
+    "scop": "Permisiune pentru mandantul să călătorească în Statele Unite pentru o durată de trei săptămâni",
+    "mandant": {
+      "nume": "Ioan Popescu",
+      "cnp": "1234567890123",
+      "adresa": "Bulevardul Nicolae Bălcescu 2, Sectorul 1, București"
+    },
+    "mandatar": {
+      "nume": "Mihail Ionescu",
+      "cnp": "9876543210987",
+      "adresa": "Strada Iuliu Maniu 1, Sectorul 3, București"
+    },
+    "descriere": "Scenariul pentru călătoria este pentru o conferință în San Francisco, California, între 1 septembrie și 30 septembrie 2022"
+  },
+  "text": "PROCURĂ JUDICIARĂ\n\nSubsemnatul, Ioan Popescu, cetățean român, cu domiciliul la Bulevardul Nicolae Bălcescu 2, Sectorul 1, București, CNP 1234567890123, împuternicește pe Mihail Ionescu, cetățean român, cu domiciliul la Strada Iuliu Maniu 1, Sectorul 3, București, CNP 9876543210987, să se reprezinte în fața instanțelor judecătorești, în special pentru a solicita permisiunea pentru călătoria sa în Statele Unite, în scopul de a participa la o conferință în San Francisco, California, între 1 septembrie și 30 septembrie 2022, și pentru a-i susține interesele în această privință.",
+  "evaluare": {
+    "structura": 4,
+    "limbaj": 5,
+    "respectare_scop": 3,
+    "observatii": "Structură: titlu incorect (PROCURĂ JUDICIARĂ în loc de DECLARAȚIE SPECIALĂ DE CĂLĂTORIE), text incomplet (lipsă final/semnătură), repetitivitate excesivă. Limbaj: juridic, dar cu repetare obsesivă a acelorași fraze. Scop: parțial acoperit, dar textul este dominat de proceduri judecătorești irelevante pentru o simplă permisiune de călătorie; lipsesc detalii practice (autorități competente, termene, documente necesare)."
+  }
+},
+
+{
+  "meta": {
+    "tip_act": "PROCURĂ SPECIALĂ IMOBILIARĂ",
+    "scop": "Procură specială pentru vânzarea unui imobil situat în București",
+    "mandant": {
+      "nume": "Ion Popescu",
+      "cnp": "1234567890",
+      "adresa": "Strada Republicii 12, Sectorul 3, București"
+    },
+    "mandatar": {
+      "nume": "Maria Ionescu",
+      "cnp": "9876543210",
+      "adresa": "Strada Vechii Prăpădite 21, Sectorul 2, București"
+    },
+    "descriere": "Imobil situat la adresa Strada Republicii 12, Sectorul 3, București, cu numărul cadastral 1234567890"
+  },
+  "text": "PROCURĂ SPECIALĂ IMOBILIARĂ\n\nSubsemnatul, Ion Popescu, cetățean român, cu CNP 1234567890 și reședință la Strada Republicii 12, Sectorul 3, București, împuternicește pe Maria Ionescu, cu CNP 9876543210 și reședință la Strada Vechii Prăpădite 21, Sectorul 2, București, să se prezinte în fața instanțelor judecătorești, în special în ceea ce privește vânzarea unui imobil situat la Strada Republicii 12, Sectorul 3, București, cu numărul cadastral 1234567890.\n\nMandatarul este autorizat să se reprezinte în instanțele judecătorești pentru vânzarea imobilului, să intenteze, să susțină sau să retragă orice acțiune civilă sau penală legată de vânzare, să primească toate actele de procedură, să facă în numele său toate probele admise de lege, să propună și să execute orice probatorii, să facă declarație de înscriere în fals, să facă sau să retragă apeluri, recursuri, revizuiri, contestații și altele și să investească hotărârile cu titlu executoriu și să execute, putând încasa pentru el și în numele său orice sume de bani care rezultă în favoarea sa.",
+  "evaluare": {
+    "structura": 8,
+    "limbaj": 9,
+    "respectare_scop": 6,
+    "observatii": "Structură: titlu corect, corp logic, final prezent, dar unele fraze sunt redundante. Limbaj: juridic, formal, fără prescurtări sau colocvialisme. Scop: parțial acoperit, dar textul conține multe elemente nepertinente (proceduri judecătorești generale, reprezentare în instanță, apeluri, recursuri) față de 'procură specială pentru vânzarea unui imobil'; lipsesc detalii practice despre actele necesare vânzării (ex.: semnarea contractului de vânzare-cumpărare, primirea prețului, eliberarea imobilului)."
+  }
+}
+
+
+
+]
