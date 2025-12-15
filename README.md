@@ -20,6 +20,8 @@ Categories of documents:
 4. Design a prompt for the Critic LLM
 5. Gather critic's results
 
+## Evaluation schema:
+
 
 ## Results:
 * Contracts:
