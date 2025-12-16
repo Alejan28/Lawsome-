@@ -34,6 +34,9 @@ It is instructed to return a JSON with the following fields:
 
 ## Results:
 * Contracts:
+    - Avarege structura: 8.00
+    - Average limbaj: 9.00
+    - Average respectare_scop: 7.00
 * Requests:
 * Power of Attorney:
     - Average structura: 6.94
