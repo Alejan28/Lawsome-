@@ -21,17 +21,31 @@ Categories of documents:
 5. Gather critic's results
 
 ## Evaluation schema:
+The model is asked to analyze each document and evaluate the following aspects:
+ * Structural integrity (structura)
+ * Legal Language (limbaj)
+ * Purpose Compliance (respectare_scop)
 
+It is instructed to return a JSON with the following fields:
+* structura (int 1-10) - 1 for not having structural quality and 10 for respecting it strictly
+* limbaj (int 1-10) - 1 for not using legal language and 10 for using it predominantly
+* respectare_scop (int 1-10) - 1 for not aligning with requested purpose and 10 for respecting it entirely
+* observatii (string) - concise textual remarks
 
 ## Results:
 * Contracts:
 * Requests:
 * Power of Attorney:
+    - Average structura: 6.94
+    - Average limbaj: 7.94
+    - Average respectare_scop: 6.63
+  
+    **Overall mean:** 7.17
 
 ## Tech Stack:
-* Collecting and preprocessing data: 
-* Generating LLM: 
-* Critic LLM:
+* Collecting and preprocessing data: BeautifulSoup, Tqdm, Numpy, Transformers, Faker
+* Generating LLM: [**RoLlama3-8b-Instruct-DPO-2025-04-23**](https://huggingface.co/OpenLLM-Ro/RoLlama3-8b-Instruct-DPO-2025-04-23)
+* Critic LLM: [**RoMistral 7B Instruct**](https://huggingface.co/OpenLLM-Ro/RoMistral-7b-Instruct)
 
 
 
