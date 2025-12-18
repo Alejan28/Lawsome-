@@ -38,12 +38,15 @@ It is instructed to return a JSON with the following fields:
     - Average limbaj: 9.00
     - Average respectare_scop: 7.00
 * Requests:
+    - Average structura: 7.53
+    - Average limbaj: 9.00
+    - Average respectare_scop: 7.21
 * Power of Attorney:
     - Average structura: 6.94
     - Average limbaj: 7.94
     - Average respectare_scop: 6.63
   
-    **Overall mean:** 7.17
+    **Overall mean:** 7.69
 
 ## Tech Stack:
 * Collecting and preprocessing data: BeautifulSoup, Tqdm, Numpy, Transformers, Faker
