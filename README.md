@@ -34,9 +34,9 @@ It is instructed to return a JSON with the following fields:
 
 ## Results:
 * Contracts:
-    - Avarege structura: 8.00
-    - Average limbaj: 9.00
-    - Average respectare_scop: 7.00
+    - Avarege structura: 8.87
+    - Average limbaj: 8.37
+    - Average respectare_scop: 7.50
 * Requests:
     - Average structura: 7.53
     - Average limbaj: 9.00
@@ -46,7 +46,7 @@ It is instructed to return a JSON with the following fields:
     - Average limbaj: 7.94
     - Average respectare_scop: 6.63
   
-    **Overall mean:** 7.69
+    **Overall mean:** 7.74
 
 ## Tech Stack:
 * Collecting and preprocessing data: BeautifulSoup, Tqdm, Numpy, Transformers, Faker
