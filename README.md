@@ -52,6 +52,8 @@ It is instructed to return a JSON with the following fields:
 * Collecting and preprocessing data: BeautifulSoup, Tqdm, Numpy, Transformers, Faker
 * Generating LLM: [**RoLlama3-8b-Instruct-DPO-2025-04-23**](https://huggingface.co/OpenLLM-Ro/RoLlama3-8b-Instruct-DPO-2025-04-23)
 * Critic LLM: [**RoMistral 7B Instruct**](https://huggingface.co/OpenLLM-Ro/RoMistral-7b-Instruct)
+## Teaser
+* https://youtu.be/Njf7LvZTWOc
 
 
 
