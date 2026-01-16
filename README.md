@@ -54,7 +54,8 @@ It is instructed to return a JSON with the following fields:
 * Critic LLM: [**RoMistral 7B Instruct**](https://huggingface.co/OpenLLM-Ro/RoMistral-7b-Instruct)
 ## Teaser
 * https://youtu.be/Njf7LvZTWOc
-
+## Demo
+* https://youtu.be/8nNvcu-sS1w
 
 
 
